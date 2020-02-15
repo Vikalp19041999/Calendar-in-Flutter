@@ -1,0 +1,4 @@
+#Thu Feb 13 11:03:44 IST 2020
+base.0=/home/ulcom17/Desktop/Flutter/flutter_calendar/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
